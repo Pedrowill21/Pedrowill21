@@ -1,55 +1,41 @@
-Excelente\! Aqui está o conteúdo formatado em Markdown (`.md`) para você copiar diretamente para o seu README do GitHub:
+Com certeza. Para um perfil ainda mais conciso e de alto impacto, que vai direto ao essencial, utilize este formato.
+
+Aqui está a versão ultra-curta e profissional em Markdown:
 
 ```markdown
-# 👋 Olá, eu sou o Pedro Portela!
+# Pedro Portela | Desenvolvedor Front-End
 
-**Desenvolvedor Front-End | React.js | Next.js | TypeScript**
+## React.js | Next.js | TypeScript | Engenharia de Software
 
-Sou o tipo de dev que acredita que um bom código é como um bom vinho: robusto, elegante e faz a vida de quem o consome muito melhor. Minha missão é transformar protótipos do Figma (o Santo Graal do Design) em interfaces que não apenas funcionam, mas que dão um show de performance, responsividade e acessibilidade. 💻🏖️
+### 🎯 Objetivo
 
----
-
-### 🚀 O que eu trago para a mesa (e para o seu projeto)
-
-Minha experiência profissional na **DIGITAL-FIT** e **MELOZ-TECH** me transformou em um ninja do desenvolvimento ágil. Seus bugs estão seguros (longe do seu código) comigo!
-
-* **Next.js & React.js:** Minhas ferramentas de combate favoritas para criar SPAs e aplicações Full-Stack com renderização otimizada. Eu faço o *frontend* ser mais rápido que um raio.
-* **TypeScript:** Porque *runtime errors* são coisas do passado. Eu gosto de tipagem forte para dormir tranquilo à noite.
-* **React Query & Zustand:** Gerenciamento de estado? Sou o mestre. Eu garanto que o consumo de APIs REST é tão suave quanto uma brisa de verão, com otimização e caching de dados assíncronos.
-* **Testes (Jest & Playwright):** Se não tem teste, não existe! Eu implemento testes unitários e *end-to-end* para quebrar o código no meu ambiente, e não no seu. **Qualidade e manutenibilidade são meu lema.**
-* **Design System & Responsividade:** Interfaces acessíveis, responsivas e construídas com **Tailwind CSS** ou **Styled Components**? Sim, eu falo a língua do CSS e garanto que tudo fica lindo em qualquer tela.
+[cite_start]Desenvolver interfaces modernas, acessíveis e de alta performance, com foco em experiência do usuário e boas práticas de desenvolvimento ágil[cite: 9].
 
 ---
 
-### 🛠️ Meu Arsenal Tecnológico (As Ferramentas de um Vencedor)
+### 🛠️ Expertise Técnica
 
-Dominar essas tecnologias é minha forma de garantir que o código seja limpo, moderno e de alta performance.
+[cite_start]Sou especializado na stack React/Next.js e na garantia de qualidade, performance e estabilidade[cite: 9, 23].
 
-| Categoria | Tecnologias Dominadas (e Amadas) |
-| :--- | :--- |
-| **Linguagens & Frameworks** | React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3 |
-| **Gerenciamento de Estado** | React Query, Context API, Hooks, Zustand |
-| **Testes & Qualidade** | Jest, Testing Library, Cypress, Playwright |
-| **APIs** | REST e GraphQL, Axios, JWT |
-| **Versionamento & Deploy** | Git, GitHub, CI/CD básico, Vercel |
-| **Formulários** | React Hook Form, Zod (para validação séria!) |
+* [cite_start]**Front-End Core:** React.js, Next.js, TypeScript e JavaScript[cite: 11].
+* [cite_start]**Gerenciamento de Estado:** Otimização de dados assíncronos e *caching* com **React Query**[cite: 12, 22].
+* [cite_start]**Testes e Qualidade:** Experiência com **Jest**, **Testing Library** e testes E2E com **Playwright**[cite: 13, 23].
+* [cite_start]**Estilização:** Criação de interfaces responsivas utilizando **Tailwind CSS** e **Styled Components**[cite: 20, 28].
+* [cite_start]**APIs e Dados:** Integração e consumo de APIs REST e GraphQL (Axios)[cite: 15, 22].
 
 ---
 
-### 🎓 Em Construção (Mas o Código Já Está Rodando)
+### 💼 Experiência & Formação
 
-Além de codificar profissionalmente, estou investindo na minha formação para garantir que minhas habilidades sejam sempre de ponta.
+[cite_start]Trabalhei no desenvolvimento de interfaces complexas na **DIGITAL-FIT** e na **MELOZ-TECH**[cite: 17, 24].
 
-* **Graduação em Engenharia de Software** | Estácio (Previsão de conclusão: Jan/2029)
+* [cite_start]**Formação:** Graduação em Engenharia de Software (Previsão: Jan/2029)[cite: 36].
 
 ---
 
-### 📞 Conecte-se com o Pedro
+### 🔗 Contato
 
-Estou sempre aberto a novos desafios, aprendizados e colaborações. Tenho **facilidade de comunicação e trabalho em equipe** e um **interesse constante por novas tecnologias**.
-
-* **LinkedIn:** [linkedin.com/in/pedro-portela-290a01278/](https://www.linkedin.com/in/pedro-portela-290a01278/)
-* **E-mail:** pedroporteladeveloper@gmail.com
-* **Telefone/WhatsApp:** (22) 998450593
-* **GitHub (Você está aqui!):** github.com/Pedrowill21
+* [cite_start]**LinkedIn:** [linkedin.com/in/pedro-portela-290a01278/](https://www.linkedin.com/in/pedro-portela-290a01278/) [cite: 6]
+* [cite_start]**GitHub:** [github.com/Pedrowill21](https://github.com/Pedrowill21) [cite: 7]
+* [cite_start]**E-mail:** pedroporteladeveloper@gmail.com [cite: 5]
 ```
